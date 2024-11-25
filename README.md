@@ -1,4 +1,4 @@
-# Test
+7# Test
 ## Test
 ### Test
 #### Test
@@ -65,3 +65,7 @@ A footnote can also have multiple lines[^2].
 - George Washington
 * John Adams
 + Thomas Jefferson
+
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
